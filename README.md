@@ -60,6 +60,8 @@ To use the program, follow these steps:
 python sequence_manipulator.py
 ```
 The program will prompt you to enter the filename of the DNA sequence file. Provide the filename and press Enter. The program will display:
-
+```bash
+NC_045512_China.txt
+```
    1. Complementary RNA Sequence
    2. Complete coronavirus cDNA
